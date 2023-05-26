@@ -314,4 +314,5 @@ function verificaGanhador() {
         lblJogadas.innerText = '';
         return;
     }
+    lblJogadas.innerText = '(' + (jogadas+1) + 'ª jogadas)';
 }
