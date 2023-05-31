@@ -14,11 +14,10 @@ let finaljogo = false;
 
 // Click botão 1
 function clickBtn1() {
-    jogadas++;
     let btn = document.getElementById('btn1');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -35,11 +34,10 @@ function clickBtn1() {
 
 // Click botão 2
 function clickBtn2() {
-    jogadas++;
     let btn = document.getElementById('btn2');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -56,11 +54,11 @@ function clickBtn2() {
 
 // Click botão 3
 function clickBtn3() {
-    jogadas++;
+   
     let btn = document.getElementById('btn3');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -77,11 +75,10 @@ function clickBtn3() {
 
 // Click botão 4
 function clickBtn4() {
-    jogadas++;
     let btn = document.getElementById('btn4');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -98,11 +95,11 @@ function clickBtn4() {
 
 // Click botão 5
 function clickBtn5() {
-    jogadas++;
+   
     let btn = document.getElementById('btn5');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -119,11 +116,11 @@ function clickBtn5() {
 
 // Click botão 6
 function clickBtn6() {
-    jogadas++;
+  
     let btn = document.getElementById('btn6');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -140,11 +137,11 @@ function clickBtn6() {
 
 // Click botão 7
 function clickBtn7() {
-    jogadas++;
+   
     let btn = document.getElementById('btn7');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -161,11 +158,11 @@ function clickBtn7() {
 
 // Click botão 8
 function clickBtn8() {
-    jogadas++;
+   
     let btn = document.getElementById('btn8');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
@@ -182,11 +179,11 @@ function clickBtn8() {
 
 // Click botão 9
 function clickBtn9() {
-    jogadas++;
+  
     let btn = document.getElementById('btn9');
 
     if (btn.value == " " && !finaljogo) {
-
+        jogadas++;
         if (controle == 0) {
             controle = 1;
             btn.value = "X";
