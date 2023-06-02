@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:darkblue;
     font-family: inter, sans-serif;
 }
 
@@ -8,6 +8,7 @@ main {
 }
 
 .tabuleiro div input {
+    background-color: aliceblue ;
     width: 100px;
     height: 100px;
     margin: 5px;
